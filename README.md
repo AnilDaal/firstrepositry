@@ -1,2 +1,2 @@
 # firstrepository
-First repo to print hello
+First repositry to print hello
